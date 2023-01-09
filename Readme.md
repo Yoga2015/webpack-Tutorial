@@ -1,4 +1,4 @@
- webpack-demo 项目
+ webpack-Tutorial 项目
 
  创建 webpack-demo目录 ，然后初始化：yarn init -y
 
